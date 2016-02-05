@@ -14,7 +14,7 @@
 			$host = getenv("OPENSHIFT_MYSQL_DB_HOST");
 			$user = getenv("OPENSHIFT_MYSQL_DB_USERNAME");
 			$password = getenv("OPENSHIFT_MYSQL_DB_PASSWORD");
-			$nombreBD = getenv("OPENSHIFT_APP_NAME");
+			$nombreBD = "coches";
 
 			if(!$this -> conexion){
 
