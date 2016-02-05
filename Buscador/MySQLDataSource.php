@@ -12,9 +12,9 @@
 			function conectar(){
 
 			$host = 'localhost';
-			$user = 'root';
-			$password = '';
-			$nombreBD = 'automoviles';
+			$user = 'adminknTh79n';
+			$password = 'j_jJfPBqQNLc';
+			$nombreBD = 'lampp';
 
 			if(!$this -> conexion){
 
