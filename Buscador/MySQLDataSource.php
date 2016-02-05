@@ -23,6 +23,9 @@
 
 
 				$bd = mysqli_select_db($this->conexion,$nombreBD);
+
+				echo "Hola que tal carlos";
+
 				
 
 					if(!$bd){
